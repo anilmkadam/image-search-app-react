@@ -33,3 +33,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ```html 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
 ```
+- Axios
+> Promise based HTTP client for the browser and node.js
+

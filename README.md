@@ -25,4 +25,4 @@ You will also see any lint errors in the console.
 
 - Unsplash API
 > Unsplash is a website dedicated to sharing stock photography under the Unsplash license.
-``` https://unsplash.com/documentation ```
+``` https://unsplash.com/documentation ``` 
